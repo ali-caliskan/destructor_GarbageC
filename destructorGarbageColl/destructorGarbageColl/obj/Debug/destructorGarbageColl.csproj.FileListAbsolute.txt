@@ -1,0 +1,7 @@
+C:\c#demos\destructorGarbageColl\destructorGarbageColl\bin\Debug\destructorGarbageColl.exe.config
+C:\c#demos\destructorGarbageColl\destructorGarbageColl\bin\Debug\destructorGarbageColl.exe
+C:\c#demos\destructorGarbageColl\destructorGarbageColl\bin\Debug\destructorGarbageColl.pdb
+C:\c#demos\destructorGarbageColl\destructorGarbageColl\obj\Debug\destructorGarbageColl.csproj.AssemblyReference.cache
+C:\c#demos\destructorGarbageColl\destructorGarbageColl\obj\Debug\destructorGarbageColl.csproj.CoreCompileInputs.cache
+C:\c#demos\destructorGarbageColl\destructorGarbageColl\obj\Debug\destructorGarbageColl.exe
+C:\c#demos\destructorGarbageColl\destructorGarbageColl\obj\Debug\destructorGarbageColl.pdb
